@@ -16,6 +16,8 @@ This is a simple and effective Google Sheets project to **split group expenses**
 
 File
 - **BillSplitter.xlsx** – Google Sheet exported to Excel format. Open with Excel or upload to Google Sheets.
+- To access the Bill Splitter Sheet:
+Click the link or view raw option to download the file
 
 How to Use
 1. Open the file in Google Sheets.
